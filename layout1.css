@@ -1,0 +1,29 @@
+* {
+    background-color: #C0BFC9;
+}
+
+h1,
+h2 {
+    font-family: Georgia;
+    color: #3B3F4E;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family: sans-serif;
+    color: #2A0A5B;
+
+}
+
+img {
+    height: 350px;
+    width: 320px;
+}
+
+.pageLinks {
+    display: flex;
+    justify-content: space-around;
+    border: solid #3A3B3C;
+    padding: 7px;
+}
